@@ -106,7 +106,7 @@ img{
 /* Descubra */
 
 .section-descubra {
-    background: url(/img/women1.jpg) right center no-repeat #EFF0E8 ;
+    background: url(./../img/women1.jpg) right center no-repeat #EFF0E8 ;
     background-size: 50% auto;
 }
 
@@ -143,7 +143,7 @@ img{
 /* Dinheiro */
 
 .section-dinheiro {
-    background: url(/img/women2.jpg) left center no-repeat #fff;
+    background: url(./../img/women2.jpg) left center no-repeat #fff;
     background-size: 50% auto;
 }
 
@@ -178,7 +178,7 @@ img{
 /* card */
 
 .section-card {
-    background: url(/img/card.jpg) right center no-repeat #EFF0E8;
+    background: url(./../img/card.jpg) right center no-repeat #EFF0E8;
     background-size: 50% auto;
 }
 
@@ -213,7 +213,7 @@ img{
 /* Pague */
 
 .section-pague {
-    background: url(/img/image\ 6.jpg) left center no-repeat #fff;
+    background: url(./../img/image\ 6.jpg) left center no-repeat #fff;
     background-size: 50% auto;
 }
 
